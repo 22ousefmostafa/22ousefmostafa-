@@ -1,6 +1,6 @@
 # 22ousefmostafa-
-<h1 align="center">Hi 👋, I'm YOUR NAME</h1>
-<h3 align="center">Flutter Developer | Mobile App Specialist 📱</h3>
+<h1 align="center">Hi 👋, I'm Yousef Mostafa</h1>
+<h3 align="center">Web & Flutter Developer | Mobile App Specialist 📱</h3>
 
 ---
 
@@ -9,7 +9,7 @@
 - 🔥 Passionate about clean architecture & scalable apps  
 - 🧠 Strong in state management (Bloc / Provider)  
 - 🔗 Experience with Firebase & REST APIs  
-- 📫 Reach me at: your@email.com  
+- 📫 Reach me at: ym475139@gmail.com
 
 ---
 
@@ -33,26 +33,26 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=22ousefmostafa&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=22ousefmostafa&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🔥 Contribution Streak
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=22ousefmostafa&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark" />
+<img src="https://github-profile-trophy.vercel.app/?22ousefmostafa=YOUR_USERNAME&theme=onedark" />
 </p>
 
 ---
 
 ### 🌐 Connect With Me
-- 💼 LinkedIn: YOUR_LINK
+- 💼 LinkedIn: <img src=" https://www.linkedin.com/in/yousseff-mosstafaa-97a468397/" />
 - 🌍 Portfolio: YOUR_LINK

@@ -54,5 +54,4 @@
 ---
 
 ### 🌐 Connect With Me
-- 💼 LinkedIn: <img src=" https://www.linkedin.com/in/yousseff-mosstafaa-97a468397/" />
-- 🌍 Portfolio: YOUR_LINK
+- 💼 LinkedIn: https://www.linkedin.com/in/yousseff-mosstafaa-97a468397/
